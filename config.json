@@ -1,4 +1,86 @@
 {
-  "Travel Photography": [],
-  "Mockups": []
+  "Travel Photography": [
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Travel Photography/IMG_2165.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2165.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2165.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Travel Photography/IMG_2170.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2170.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2170.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Travel Photography/IMG_2164.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2164.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2164.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Travel Photography/IMG_2166.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2166.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2166.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Travel Photography/IMG_2167.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2167.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2167.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Travel Photography/IMG_2163.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2163.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2163.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Travel Photography/IMG_2161.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2161.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2161.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Travel Photography/IMG_2169.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2169.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2169.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Travel Photography/IMG_2168.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_2168.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_2168.placeholder.jpg"
+    }
+  ],
+  "Mockups": [
+    {
+      "width": 6240,
+      "height": 3512,
+      "path": "./photos/Mockups/tufts.jpg",
+      "compressed_path": "./photos/Mockups/tufts.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mockups/tufts.placeholder.jpg"
+    }
+  ]
 }
