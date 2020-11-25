@@ -5,7 +5,7 @@
       "height": 917,
       "path": "./photos/Travel Photography/IMG_0504.jpg",
       "compressed_path": "./photos/Travel Photography/IMG_0504.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Travel Photography/IMG_0504.placeholder.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "height": 666,
       "path": "./photos/Travel Photography/IMG_0502.jpg",
       "compressed_path": "./photos/Travel Photography/IMG_0502.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Travel Photography/IMG_0502.placeholder.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "height": 1080,
       "path": "./photos/Travel Photography/IMG_0503.jpg",
       "compressed_path": "./photos/Travel Photography/IMG_0503.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Travel Photography/IMG_0503.placeholder.jpg"
     }
   ],
@@ -31,7 +31,7 @@
       "height": 1340,
       "path": "./photos/Mockups/low res pic.jpg",
       "compressed_path": "./photos/Mockups/low res pic.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Mockups/low res pic.placeholder.jpg"
     }
   ]
