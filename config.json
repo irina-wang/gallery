@@ -1,12 +1,37 @@
 {
-  "Travel Photography": [],
+  "Travel Photography": [
+    {
+      "width": 1002,
+      "height": 917,
+      "path": "./photos/Travel Photography/IMG_0504.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_0504.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_0504.placeholder.jpg"
+    },
+    {
+      "width": 1125,
+      "height": 666,
+      "path": "./photos/Travel Photography/IMG_0502.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_0502.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_0502.placeholder.jpg"
+    },
+    {
+      "width": 1918,
+      "height": 1080,
+      "path": "./photos/Travel Photography/IMG_0503.jpg",
+      "compressed_path": "./photos/Travel Photography/IMG_0503.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/IMG_0503.placeholder.jpg"
+    }
+  ],
   "Mockups": [
     {
       "width": 2436,
       "height": 1340,
       "path": "./photos/Mockups/low res pic.jpg",
       "compressed_path": "./photos/Mockups/low res pic.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Mockups/low res pic.placeholder.jpg"
     }
   ]
