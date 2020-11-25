@@ -1,12 +1,228 @@
 {
-  "Travel Photography": [
+  "Gui Zhou": [
     {
-      "width": 2510,
-      "height": 1410,
-      "path": "./photos/Travel Photography/Beijing.jpg",
-      "compressed_path": "./photos/Travel Photography/Beijing.min.jpg",
+      "width": 1280,
+      "height": 1920,
+      "path": "./photos/Gui Zhou/IMG_7196.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7196.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/Beijing.placeholder.jpg"
+      "placeholder_path": "./photos/Gui Zhou/IMG_7196.placeholder.jpg"
+    },
+    {
+      "width": 1480,
+      "height": 986,
+      "path": "./photos/Gui Zhou/IMG_7197.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7197.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7197.placeholder.jpg"
+    },
+    {
+      "width": 1836,
+      "height": 1224,
+      "path": "./photos/Gui Zhou/IMG_7217 2.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7217 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7217 2.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 1920,
+      "path": "./photos/Gui Zhou/IMG_7195.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7195.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7195.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7184.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7184.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7184.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7190.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7190.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7190.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7191.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7191.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7191.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Gui Zhou/IMG_7193.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7193.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7193.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7192.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7192.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7192.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_6943.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_6943.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_6943.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Gui Zhou/IMG_6950.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_6950.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_6950.placeholder.jpg"
+    },
+    {
+      "width": 1442,
+      "height": 962,
+      "path": "./photos/Gui Zhou/IMG_6944.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_6944.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_6944.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7209 2.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7209 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7209 2.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7212 2.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7212 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7212 2.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_6947.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_6947.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_6947.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_6945 2.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_6945 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_6945 2.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7201 3.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7201 3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7201 3.placeholder.jpg"
+    },
+    {
+      "width": 1454,
+      "height": 970,
+      "path": "./photos/Gui Zhou/IMG_7202.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7202.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7202.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7216.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7216.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7216.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7174.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7174.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7174.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7188.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7188.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7188.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7177.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7177.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7177.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7189.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7189.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7189.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Gui Zhou/IMG_7200.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7200.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7200.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7210.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7210.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7210.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7199.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7199.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7199.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7211.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7211.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7211.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Gui Zhou/IMG_7213.jpg",
+      "compressed_path": "./photos/Gui Zhou/IMG_7213.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gui Zhou/IMG_7213.placeholder.jpg"
     }
   ],
   "Beijing": [
@@ -17,24 +233,7 @@
       "compressed_path": "./photos/Beijing/Beijing.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Beijing/Beijing.placeholder.jpg"
-    },
-    {
-      "width": 2436,
-      "height": 1340,
-      "path": "./photos/Beijing/low res pic.jpg",
-      "compressed_path": "./photos/Beijing/low res pic.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Beijing/low res pic.placeholder.jpg"
     }
   ],
-  "Mockups": [
-    {
-      "width": 2436,
-      "height": 1340,
-      "path": "./photos/Mockups/low res pic.jpg",
-      "compressed_path": "./photos/Mockups/low res pic.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/low res pic.placeholder.jpg"
-    }
-  ]
+  "About Me": []
 }
